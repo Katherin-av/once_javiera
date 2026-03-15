@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es"> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarjeta de presentación personal.</title>
+</head>
+<body>
+<header>
+   
+    <h1>Presentación personal Katherin Alarcón Vélez.</h1>
+    <p>Mi nombre es Katherin Alarcón Vélez tengo 16 años. Estudio en la Institución Educativa Javiera Londoño y me encuentro cursando el grado 11, también en esta misma institución me encuentro realizando una media técnica en desarrollo de software. </p>  
+    
+</header>
+<main>
+    <article>
+        <header> 
+            <h3>Fecha de nacimiento.</h3>
+            <time datetime="2009-05-02T10:20">
+                02 de mayo, 10:20 a.m.
+            </time>
+        </header>
+    </article>
+    <article>
+        <header>
+            <section>
+            <h2>Datos sobre mi.</h2>
+            </section>
+
+            <h3>Algunas de mis cualidades son:</h3>
+            <ul>
+                <li>-Responsable.</li>
+                <li>-Disciplinada.</li>
+                <li>-Inteligente.</li>
+                <li>-Respetuosa.</li>
+                <li>-Colaboradora.</li>
+            </ul>
+            <h3>Algunos de mis pasatiempos son:</h3>
+            <ul>
+                <li>-Cocinar.</li>
+                <li>-Bailar</li>
+                <li>-Pintar</li>
+                <li>-Ver series.</li>
+            </ul>
+        </header>
+        
+    </article>
+</main>
+<footer>
+    <small>© <time datetime="2026">2026</time> Tarjeta de Presentación</small>
+</footer>
+</body>
+</html>
